@@ -1,8 +1,13 @@
-/* CSS files add styling rules to your content */
+*{
+  color:black;
+  font-family:arial;
+  }
+
 
 body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+ background-image:url("https://www.google.com/search?q=fondos&rlz=1C1OKWM_esUS937US937&sxsrf=ALeKk019exv0lVMHaG5_JbvRnVizwsCMvw:1614552048197&tbm=isch&source=iu&ictx=1&fir=Kbob_Y0FxMZ6hM%252CC4gFu50U1w5FKM%252C_&vet=1&usg=AI4_-kToq2SCF1ds8D_s006QfXmG9-CXXw&sa=X&ved=2ahUKEwjx_7aK043vAhWJJTQIHWKaArIQ9QF6BAgBEAE#imgrc=Kbob_Y0FxMZ6hM"); 
+ 
+
 }
 
 h1 {
