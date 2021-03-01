@@ -43,10 +43,25 @@ background: black;
 }
 
 section{
-width
+width:80%;
+  margin:auto;
+  height:auto;
+  color:black;
+  background:white;
+  padding-bottom: 10px;
+  border-radius: 0 0 10px 0;
+  box-shadow: 5px 10px 18px lightcoral;
 }
 
-
+section h1{
+font-size: 1.2em;
+  font-family: Georgia,times new roman, times, serif;
+  font-weight:bold;
+  padding:20px;
+  border-botom: 1px solid lightgrey;
+  color: rgb(0, 98, 128);
+}
+  
 h1 {
   font-style: italic;
   color:purple;
