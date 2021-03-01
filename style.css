@@ -27,3 +27,12 @@ h1 {
   color:purple;
   text-align:center;
 }
+#lenguaje{
+  background-color:purple;
+  list-style:square;
+  padding:25;
+  width:100%;
+  position:sticky;
+  top:0px;
+    
+  }
