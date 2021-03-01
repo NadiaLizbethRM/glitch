@@ -37,3 +37,10 @@ h1 {
   top:0px;
     
   }
+.contenedor-imagenes {
+  display: flex;
+}
+
+.contenedor-imagenes img:first-child {
+  margin-right: 10px;
+}
