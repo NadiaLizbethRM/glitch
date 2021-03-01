@@ -85,5 +85,24 @@ h1 {
   margin-right: 10px;
 }
 table{
-  background:purple;
+  background:#C133FF;
+  width:300px;
+  heigth:80px;
+  }
+
+estilo1{
+  border:4px dashed purple;
+  border radius:15px;
+  box-shadow: 7px 7px aqua;
+  padding:30px;
+  margin:80px;
+ }
+
+estilo{
+  background-color:aqua;
+  list-style:square;
+  padding:25;
+  width:100%;
+  position:sticky;
+  top:0px;
   }
