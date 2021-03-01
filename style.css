@@ -47,7 +47,7 @@ width:80%;
   margin:auto;
   height:auto;
   color:black;
-  background:white;
+  background:pink;
   padding-bottom: 10px;
   border-radius: 0 0 10px 0;
   box-shadow: 5px 10px 18px lightcoral;
@@ -84,3 +84,6 @@ h1 {
 .contenedor-imagenes img:first-child {
   margin-right: 10px;
 }
+table{
+  background:purple;
+  }
